@@ -1,21 +1,31 @@
 {
-    "name": "Ahlia Daile Amado",
+    "name": "Ahlia Daile Amado - NISU | CICS",
     "short_name": "Ahlia Daile",
-    "start_url": "ahliadaileamadonisucics.site/index.html",
+    "start_url": "/index.html",
     "display": "standalone",
     "background_color": "#ffffff",
-    "theme_color": "#000000",
-    "description": "Ahlia Daile Amado - Poetry and Creative Writing.",
+    "theme_color": "#007bff",
+    "description": "Ahlia Daile Amado's poetry and writing portfolio at Northern Iloilo State University, College of Information and Computing Studies.",
     "icons": [
-        {
-            "src": "/images/icon-192x192.png",
-            "sizes": "192x192",
-            "type": "image/png"
-        },
-        {
-            "src": "/images/icon-512x512.png",
-            "sizes": "512x512",
-            "type": "image/png"
-        }
+      {
+        "src": "images/favicon.ico",
+        "sizes": "16x16 32x32 48x48",
+        "type": "image/x-icon"
+      },
+      {
+        "src": "images/favicon-32x32.png",
+        "sizes": "32x32",
+        "type": "image/png"
+      },
+      {
+        "src": "images/favicon-192x192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "images/favicon-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
     ]
-}
+  }
