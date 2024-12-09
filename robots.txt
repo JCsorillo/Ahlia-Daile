@@ -1,7 +1,6 @@
-User -agent: Googlebot
+User -agent: *
 Allow: /
 
-User -agent: *
 Disallow: /private/
 
 Sitemap: https://ahliadaileamadonisucics.site/sitemap.xml
